@@ -7,4 +7,8 @@ public class Phone {
     private String url;
     private Boolean async = Boolean.TRUE;
 
+    private String sha256;
+    private String url;
+    private Boolean deleted;
+
 }
